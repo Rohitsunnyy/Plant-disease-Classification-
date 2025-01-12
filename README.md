@@ -1,3 +1,6 @@
+![Philodendron Plant](Philodendron_background_b5ef215490.avif)
+
+
 # Plant Disease Classification
 
 ## Project Overview
